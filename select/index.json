@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Hurtful",
+  "base_artist": "35.7",
+  "createdAt": "2025-12-28T08:23:52.664274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Most Hurtful Thing",
+      "artist": "U.S. Girls",
+      "has_synced": false,
+      "path": "select/01_The_Most_Hurtful_Thing_U.S._Girls.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Famous to Me (Hurtful Kid Mix)",
+      "artist": "Her Space Holiday",
+      "has_synced": false,
+      "path": "select/02_Famous_to_Me_(Hurtful_Kid_Mix)_Her_Space_Holiday.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hurtful",
+      "artist": "Erik Hassle",
+      "has_synced": true,
+      "path": "select/03_Hurtful_Erik_Hassle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hurtful Game",
+      "artist": "Martin Jondo",
+      "has_synced": true,
+      "path": "select/04_Hurtful_Game_Martin_Jondo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Famous to Me (Hurtful Kid)",
+      "artist": "Her Space Holiday",
+      "has_synced": false,
+      "path": "select/05_Famous_to_Me_(Hurtful_Kid)_Her_Space_Holiday.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Famouse To Me (Hurtful Kid)",
+      "artist": "Her Space Holiday",
+      "has_synced": false,
+      "path": "select/06_Famouse_To_Me_(Hurtful_Kid)_Her_Space_Holiday.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hurtful (Original Mix)",
+      "artist": "Twelve",
+      "has_synced": true,
+      "path": "select/07_Hurtful_(Original_Mix)_Twelve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hurtful & Painful",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/08_Hurtful_&_Painful_トゲナシトゲアリ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Famous To Me (Hurtful Kid)",
+      "artist": "Bright Eyes & Her Space Holiday",
+      "has_synced": false,
+      "path": "select/09_Famous_To_Me_(Hurtful_Kid)_Bright_Eyes_&_Her_Space_Holiday.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hurtful",
+      "artist": "Erik Hassle",
+      "has_synced": true,
+      "path": "select/10_Hurtful_Erik_Hassle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hurtful",
+      "artist": "Twelve",
+      "has_synced": true,
+      "path": "select/11_Hurtful_Twelve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hurtful",
+      "artist": "LaVive",
+      "has_synced": false,
+      "path": "select/12_Hurtful_LaVive.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HURTFUL",
+      "artist": "Linus Svenning",
+      "has_synced": true,
+      "path": "select/13_HURTFUL_Linus_Svenning.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hurtful",
+      "artist": "Erik Hassle",
+      "has_synced": true,
+      "path": "select/14_Hurtful_Erik_Hassle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hurtful",
+      "artist": "35.7",
+      "has_synced": false,
+      "path": "select/pl_01_Hurtful_35.7.txt"
+    }
+  ]
+}
